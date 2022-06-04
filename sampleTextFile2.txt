@@ -1,3 +1,7 @@
 This is a sample text file, text is ok, changes, testing stash, testing pop
 xlkj;ksldajfklsajf
+<<<<<<< HEAD
 added this line via github.com edit
+=======
+bitbucket remote changes
+>>>>>>> 21ea743e1c135c8aa79f993cc4bf4fbdc46c2d1f

@@ -1,1 +1,4 @@
 This is a sample text file, text is ok, changes, testing stash, testing pop
+new code changes:wq
+:wq
+

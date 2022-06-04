@@ -1,2 +1,3 @@
 This is a sample text file, text is ok, changes, testing stash, testing pop
 xlkj;ksldajfklsajf
+added this line via github.com edit
